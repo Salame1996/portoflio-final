@@ -1,0 +1,13 @@
+h3{
+    font-family: "Montserrat", sans-serif;
+    color: #c38c9d;
+}
+.text-container {
+    max-width: 600px; /* Adjust the width to your preference */
+    margin: 0 auto; /* Center the container horizontally */
+    text-align: justify; /* Justify the text */
+    padding: 0px; /* Add some padding for spacing */
+    margin-top: 150px;
+    margin-left: 200px;
+  }
+  

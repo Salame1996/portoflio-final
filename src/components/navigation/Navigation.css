@@ -1,0 +1,16 @@
+.navbar a.nav-link {
+    color: #1b64ff !important;
+    text-decoration: none;
+    position: relative;
+    transition: transform 0.2s;
+    font-family: "Montserrat", sans-serif; /* Add a smooth transition for the transform property */
+  }
+  
+  .navbar a.nav-link:hover {
+    text-decoration: underline;
+    transform: translateY(-2px); /* Apply a small upward translation on hover */
+  }
+  .background {
+    background-color: 
+    #191a1d;
+  }
