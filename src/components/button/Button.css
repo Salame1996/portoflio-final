@@ -2,7 +2,7 @@
 
 .button-56 {
     align-items: center;
-    background-color: #fee6e3;
+    background-color: lightblue;
     border: 2px solid #111;
     border-radius: 8px;
     box-sizing: border-box;
@@ -29,7 +29,7 @@
   }
   
   .button-56:after {
-    background-color: red;
+    background-color: blue;
     border-radius: 8px;
     content: "";
     display: block;

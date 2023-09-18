@@ -1,0 +1,36 @@
+.about-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px;
+  }
+  
+  .about-content {
+    display: flex;
+    flex-direction: row-reverse; /* Reverses the order of the columns */
+    max-width: 1000px;
+    width: 200%;
+   
+  }
+  
+  .about-text {
+    color: blanchedalmond;
+font-size: 20px;
+text-align: justify;
+flex: 36 1;
+padding: 11px;
+  }
+  
+  .about-image {
+    /* Style your image here */
+    flex: 1;
+  }
+  p {
+    margin-top: 13%;
+    margin-bottom: 1rem;
+  }
+  .heading {
+    margin-top: 50px;
+    margin-left: 36%;
+  }
+  

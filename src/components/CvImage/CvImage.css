@@ -1,0 +1,7 @@
+.cvimage {
+    display: block; /* Make sure the image is a block-level element */
+    margin: 0 auto; /* Center the image horizontally */
+    width: 50%; /* Adjust the width as needed */
+    height: 50%; /* Adjust the height as needed */
+  }
+  

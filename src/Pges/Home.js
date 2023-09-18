@@ -9,7 +9,7 @@ import Textbox from '../components/textbox/Textbox'
 function Home() {
   return (
     <div>
-        <Navigation/>
+        <Navigation />
         <Textbox />
         <Text />
         <Profile />

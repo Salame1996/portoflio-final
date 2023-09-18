@@ -1,0 +1,18 @@
+.email{
+    position: absolute;
+    margin-top: 4%;
+    margin-left: 46%;
+}
+
+.gmail{
+    color: blue;
+    position: absolute;
+    margin-top: 8%;
+    margin-left: 35%;
+    font-size: 30px;
+}
+.socials{
+    position: absolute;
+    margin-top: 4%;
+    margin-left: 42%;
+}

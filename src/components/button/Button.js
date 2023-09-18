@@ -1,11 +1,12 @@
 import React from 'react';
+import { Link } from 'react-router-dom'; // Import Link from react-router-dom
 import './Button.css'; // Import your CSS file here
 
 function Button() {
   return (
-    <button className="button-56" role="button">
-      Button 56
-    </button>
+    <Link to="/projects"> {/* Use Link component with the desired route */}
+      <button className="button-56">Projects</button>
+    </Link>
   );
 }
 

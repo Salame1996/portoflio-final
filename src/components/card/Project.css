@@ -1,0 +1,36 @@
+
+.card {
+    width: 18rem;
+    background-color: lightcyan !important;
+  }
+  
+  .custom-card-body {
+    max-height: 10rem; /* Adjust the max-height to make the cards smaller in height */
+    overflow-y: auto; /* Add scroll if the content exceeds max height */
+  }
+  
+  .list-group-flush > .list-group-item {
+    border-width: 0 0 var(--bs-list-group-border-width);
+    background-color: lightcyan;
+  }
+  
+  .list-group-item {
+    border-color: darkblue;
+  }
+  
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px; /* Adjust the gap between cards as needed */
+    max-width: 100%;
+  }
+  
+  .github-body { /* Custom class for GitHub link container */
+    margin-top: 5px; /* Adjust the margin to reduce space between GitHub link and card bottom */
+  }
+  
+  .card-link {
+    color: red;
+    margin-left: 73px;
+  }
